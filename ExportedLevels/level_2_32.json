@@ -5,12 +5,12 @@
     "gridWidth": 3,
     "gridHeight": 3,
     "playerStartPosition": {
-        "x": 0,
+        "x": 1,
         "y": 0
     },
-    "levelType": 1,
+    "levelType": 0,
     "flagPosition": {
-        "x": 1,
+        "x": 0,
         "y": 0
     },
     "goldPerStar": 20,
@@ -22,7 +22,7 @@
     "specificTileSetups": [
         {
             "position": {
-                "x": 0,
+                "x": 1,
                 "y": 0
             },
             "type": 0,
@@ -33,22 +33,7 @@
                 "x": 0,
                 "y": 0
             },
-            "spreadTimer": 3
-        },
-        {
-            "position": {
-                "x": 1,
-                "y": 0
-            },
-            "type": 5,
-            "grassLayers": 1,
-            "visualVariantIndex": 0,
-            "deadTreeStrength": 1,
-            "pairedHolePosition": {
-                "x": 0,
-                "y": 0
-            },
-            "spreadTimer": 3
+            "spreadTimer": 0
         },
         {
             "position": {
@@ -63,7 +48,7 @@
                 "x": 0,
                 "y": 0
             },
-            "spreadTimer": 3
+            "spreadTimer": 0
         },
         {
             "position": {
@@ -78,7 +63,7 @@
                 "x": 0,
                 "y": 0
             },
-            "spreadTimer": 3
+            "spreadTimer": 0
         },
         {
             "position": {
@@ -93,7 +78,7 @@
                 "x": 0,
                 "y": 0
             },
-            "spreadTimer": 3
+            "spreadTimer": 0
         },
         {
             "position": {
@@ -101,14 +86,14 @@
                 "y": 2
             },
             "type": 0,
-            "grassLayers": 3,
+            "grassLayers": 1,
             "visualVariantIndex": 0,
             "deadTreeStrength": 1,
             "pairedHolePosition": {
                 "x": 0,
                 "y": 0
             },
-            "spreadTimer": 3
+            "spreadTimer": 0
         },
         {
             "position": {
@@ -123,7 +108,7 @@
                 "x": 0,
                 "y": 0
             },
-            "spreadTimer": 3
+            "spreadTimer": 0
         },
         {
             "position": {
@@ -138,22 +123,37 @@
                 "x": 0,
                 "y": 0
             },
-            "spreadTimer": 3
+            "spreadTimer": 0
         },
         {
             "position": {
-                "x": 1,
-                "y": 1
+                "x": 0,
+                "y": 0
             },
             "type": 0,
-            "grassLayers": 1,
+            "grassLayers": 2,
             "visualVariantIndex": 0,
             "deadTreeStrength": 1,
             "pairedHolePosition": {
                 "x": 0,
                 "y": 0
             },
-            "spreadTimer": 3
+            "spreadTimer": 0
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "type": 3,
+            "grassLayers": 0,
+            "visualVariantIndex": 0,
+            "deadTreeStrength": 1,
+            "pairedHolePosition": {
+                "x": 0,
+                "y": 0
+            },
+            "spreadTimer": 0
         }
     ]
 }
