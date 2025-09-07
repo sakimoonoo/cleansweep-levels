@@ -1,0 +1,497 @@
+{
+    "manifestVersion": 1,
+    "levels": [
+        {
+            "chapterId": 1,
+            "levelIndex": 0,
+            "version": 1,
+            "fileName": "level_1_0.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 1,
+            "version": 1,
+            "fileName": "level_1_1.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 2,
+            "version": 1,
+            "fileName": "level_1_2.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 3,
+            "version": 1,
+            "fileName": "level_1_3.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 4,
+            "version": 1,
+            "fileName": "level_1_4.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 5,
+            "version": 1,
+            "fileName": "level_1_5.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 6,
+            "version": 1,
+            "fileName": "level_1_6.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 7,
+            "version": 1,
+            "fileName": "level_1_7.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 8,
+            "version": 1,
+            "fileName": "level_1_8.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 9,
+            "version": 1,
+            "fileName": "level_1_9.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 10,
+            "version": 1,
+            "fileName": "level_1_10.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 11,
+            "version": 1,
+            "fileName": "level_1_11.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 12,
+            "version": 1,
+            "fileName": "level_1_12.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 13,
+            "version": 1,
+            "fileName": "level_1_13.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 14,
+            "version": 1,
+            "fileName": "level_1_14.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 15,
+            "version": 1,
+            "fileName": "level_1_15.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 16,
+            "version": 1,
+            "fileName": "level_1_16.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 17,
+            "version": 1,
+            "fileName": "level_1_17.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 18,
+            "version": 1,
+            "fileName": "level_1_18.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 19,
+            "version": 1,
+            "fileName": "level_1_19.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 20,
+            "version": 1,
+            "fileName": "level_1_20.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 21,
+            "version": 1,
+            "fileName": "level_1_21.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 22,
+            "version": 1,
+            "fileName": "level_1_22.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 23,
+            "version": 1,
+            "fileName": "level_1_23.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 24,
+            "version": 1,
+            "fileName": "level_1_24.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 25,
+            "version": 1,
+            "fileName": "level_1_25.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 26,
+            "version": 1,
+            "fileName": "level_1_26.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 27,
+            "version": 1,
+            "fileName": "level_1_27.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 28,
+            "version": 1,
+            "fileName": "level_1_28.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 29,
+            "version": 1,
+            "fileName": "level_1_29.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 30,
+            "version": 1,
+            "fileName": "level_1_30.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 31,
+            "version": 1,
+            "fileName": "level_1_31.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 32,
+            "version": 1,
+            "fileName": "level_1_32.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 33,
+            "version": 1,
+            "fileName": "level_1_33.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 34,
+            "version": 1,
+            "fileName": "level_1_34.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 35,
+            "version": 1,
+            "fileName": "level_1_35.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 36,
+            "version": 1,
+            "fileName": "level_1_36.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 37,
+            "version": 1,
+            "fileName": "level_1_37.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 38,
+            "version": 1,
+            "fileName": "level_1_38.json"
+        },
+        {
+            "chapterId": 1,
+            "levelIndex": 39,
+            "version": 1,
+            "fileName": "level_1_39.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 0,
+            "version": 1,
+            "fileName": "level_2_0.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 1,
+            "version": 1,
+            "fileName": "level_2_1.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 2,
+            "version": 1,
+            "fileName": "level_2_2.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 3,
+            "version": 1,
+            "fileName": "level_2_3.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 4,
+            "version": 1,
+            "fileName": "level_2_4.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 5,
+            "version": 1,
+            "fileName": "level_2_5.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 6,
+            "version": 1,
+            "fileName": "level_2_6.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 7,
+            "version": 1,
+            "fileName": "level_2_7.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 8,
+            "version": 1,
+            "fileName": "level_2_8.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 9,
+            "version": 1,
+            "fileName": "level_2_9.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 10,
+            "version": 1,
+            "fileName": "level_2_10.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 11,
+            "version": 1,
+            "fileName": "level_2_11.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 12,
+            "version": 1,
+            "fileName": "level_2_12.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 13,
+            "version": 1,
+            "fileName": "level_2_13.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 14,
+            "version": 1,
+            "fileName": "level_2_14.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 15,
+            "version": 1,
+            "fileName": "level_2_15.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 16,
+            "version": 1,
+            "fileName": "level_2_16.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 17,
+            "version": 1,
+            "fileName": "level_2_17.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 18,
+            "version": 1,
+            "fileName": "level_2_18.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 19,
+            "version": 1,
+            "fileName": "level_2_19.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 20,
+            "version": 1,
+            "fileName": "level_2_20.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 21,
+            "version": 1,
+            "fileName": "level_2_21.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 22,
+            "version": 1,
+            "fileName": "level_2_22.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 23,
+            "version": 1,
+            "fileName": "level_2_23.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 24,
+            "version": 1,
+            "fileName": "level_2_24.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 25,
+            "version": 1,
+            "fileName": "level_2_25.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 26,
+            "version": 1,
+            "fileName": "level_2_26.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 27,
+            "version": 1,
+            "fileName": "level_2_27.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 28,
+            "version": 1,
+            "fileName": "level_2_28.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 29,
+            "version": 1,
+            "fileName": "level_2_29.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 30,
+            "version": 1,
+            "fileName": "level_2_30.json"
+        },
+        {
+            "chapterId": 2,
+            "levelIndex": 31,
+            "version": 1,
+            "fileName": "level_2_31.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 0,
+            "version": 1,
+            "fileName": "level_3_0.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 1,
+            "version": 1,
+            "fileName": "level_3_1.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 2,
+            "version": 1,
+            "fileName": "level_3_2.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 3,
+            "version": 1,
+            "fileName": "level_3_3.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 4,
+            "version": 1,
+            "fileName": "level_3_4.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 5,
+            "version": 1,
+            "fileName": "level_3_5.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 6,
+            "version": 1,
+            "fileName": "level_3_6.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 7,
+            "version": 1,
+            "fileName": "level_3_7.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 8,
+            "version": 1,
+            "fileName": "level_3_8.json"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 9,
+            "version": 1,
+            "fileName": "level_3_9.json"
+        }
+    ]
+}
