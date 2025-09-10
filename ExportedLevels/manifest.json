@@ -1,12 +1,12 @@
 {
-    "manifestVersion": 7,
+    "manifestVersion": 11,
     "levels": [
         {
             "chapterId": 1,
             "levelIndex": 0,
-            "version": 2,
+            "version": 4,
             "fileName": "level_1_0.json",
-            "contentHash": "16ef6e42a77c79e477580eba27552a73"
+            "contentHash": "f0f3f47dcc9a1732955b6a6469f74bb8"
         },
         {
             "chapterId": 1,
@@ -18,16 +18,16 @@
         {
             "chapterId": 1,
             "levelIndex": 2,
-            "version": 2,
+            "version": 4,
             "fileName": "level_1_2.json",
-            "contentHash": "b7b2800e6464a93b5207057bdf78ea25"
+            "contentHash": "175ea9c332b9298b86aa6a5085836a60"
         },
         {
             "chapterId": 1,
             "levelIndex": 3,
-            "version": 2,
+            "version": 4,
             "fileName": "level_1_3.json",
-            "contentHash": "b2c0e023b2564e42150ab911cd1864ef"
+            "contentHash": "4fab2db40e83b730945ce9bbca0bbddf"
         },
         {
             "chapterId": 1,
@@ -39,9 +39,9 @@
         {
             "chapterId": 1,
             "levelIndex": 5,
-            "version": 2,
+            "version": 4,
             "fileName": "level_1_5.json",
-            "contentHash": "f5e016054bb9da6ca9e77164ffa3422b"
+            "contentHash": "0e85da5bb3a379f48ca32555436adb14"
         },
         {
             "chapterId": 1,
@@ -53,16 +53,16 @@
         {
             "chapterId": 1,
             "levelIndex": 7,
-            "version": 2,
+            "version": 4,
             "fileName": "level_1_7.json",
-            "contentHash": "a17552c4888c18b3a2821f1329441317"
+            "contentHash": "7a98c539b961f3deb098687380b97a27"
         },
         {
             "chapterId": 1,
             "levelIndex": 8,
-            "version": 2,
+            "version": 4,
             "fileName": "level_1_8.json",
-            "contentHash": "59120789c3be257811ca935e7fe9adb2"
+            "contentHash": "6a351c05b13307bfd034093b63b97c1f"
         },
         {
             "chapterId": 1,
@@ -102,9 +102,9 @@
         {
             "chapterId": 1,
             "levelIndex": 14,
-            "version": 2,
+            "version": 4,
             "fileName": "level_1_14.json",
-            "contentHash": "2bc9d7c0cbedd51d3add600db60b220b"
+            "contentHash": "5f6064e98c887860e8388eeda639bbb6"
         },
         {
             "chapterId": 1,
@@ -207,9 +207,9 @@
         {
             "chapterId": 1,
             "levelIndex": 29,
-            "version": 2,
+            "version": 4,
             "fileName": "level_1_29.json",
-            "contentHash": "8d8a12d12090edbf9f0a55c604aa7bfb"
+            "contentHash": "6136244e0614623784fe741c7d518b80"
         },
         {
             "chapterId": 1,
@@ -417,9 +417,9 @@
         {
             "chapterId": 2,
             "levelIndex": 19,
-            "version": 2,
+            "version": 4,
             "fileName": "level_2_19.json",
-            "contentHash": "c0c89218f181bb4b7667810a3b3b0a70"
+            "contentHash": "fdb87bfccf14bf1b8e979b83321a1a39"
         },
         {
             "chapterId": 2,
@@ -522,9 +522,9 @@
         {
             "chapterId": 2,
             "levelIndex": 34,
-            "version": 4,
+            "version": 6,
             "fileName": "level_2_34.json",
-            "contentHash": "1480661166f901c9922f2f3b1ff7c2ee"
+            "contentHash": "42a6547b14d8878b08ce881f731857b0"
         },
         {
             "chapterId": 2,
@@ -557,9 +557,9 @@
         {
             "chapterId": 2,
             "levelIndex": 39,
-            "version": 5,
+            "version": 7,
             "fileName": "level_2_39.json",
-            "contentHash": "21fb9faee3369749e2d1ec8beb2fd587"
+            "contentHash": "b8e1130ac8574c8364ec293e35a2b0e4"
         }
     ]
 }
