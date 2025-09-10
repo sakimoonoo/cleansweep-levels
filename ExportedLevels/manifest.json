@@ -1,5 +1,5 @@
 {
-    "manifestVersion": 3,
+    "manifestVersion": 4,
     "levels": [
         {
             "chapterId": 1,
@@ -88,9 +88,9 @@
         {
             "chapterId": 1,
             "levelIndex": 12,
-            "version": 3,
+            "version": 4,
             "fileName": "level_1_12.json",
-            "contentHash": "06229ea609b30293b0f0c8bf4e54f515"
+            "contentHash": "ea8398eb23857cbd01a81ca85cd4cfd1"
         },
         {
             "chapterId": 1,
