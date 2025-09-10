@@ -1,6 +1,6 @@
 {
     "tutorialData": {
-        "instanceID": 45410
+        "instanceID": 49716
     },
     "gridWidth": 3,
     "gridHeight": 4,
@@ -13,7 +13,7 @@
         "x": 2,
         "y": 3
     },
-    "goldPerStar": 20,
+    "goldPerStar": 10,
     "starThresholds": [
         80.0,
         90.0,
