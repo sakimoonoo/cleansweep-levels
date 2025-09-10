@@ -1,0 +1,84 @@
+{
+    "tutorialData": {
+        "instanceID": 0
+    },
+    "gridWidth": 2,
+    "gridHeight": 2,
+    "playerStartPosition": {
+        "x": 0,
+        "y": 0
+    },
+    "levelType": 1,
+    "flagPosition": {
+        "x": 1,
+        "y": 0
+    },
+    "goldPerStar": 10,
+    "starThresholds": [
+        80.0,
+        90.0,
+        100.0
+    ],
+    "specificTileSetups": [
+        {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": 0,
+            "grassLayers": 1,
+            "visualVariantIndex": 0,
+            "deadTreeStrength": 1,
+            "pairedHolePosition": {
+                "x": 0,
+                "y": 0
+            },
+            "spreadTimer": 3
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "type": 5,
+            "grassLayers": 1,
+            "visualVariantIndex": 0,
+            "deadTreeStrength": 1,
+            "pairedHolePosition": {
+                "x": 0,
+                "y": 0
+            },
+            "spreadTimer": 3
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "type": 0,
+            "grassLayers": 1,
+            "visualVariantIndex": 0,
+            "deadTreeStrength": 1,
+            "pairedHolePosition": {
+                "x": 0,
+                "y": 0
+            },
+            "spreadTimer": 3
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "type": 0,
+            "grassLayers": 1,
+            "visualVariantIndex": 0,
+            "deadTreeStrength": 1,
+            "pairedHolePosition": {
+                "x": 0,
+                "y": 0
+            },
+            "spreadTimer": 3
+        }
+    ]
+}
