@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49326
-    },
     "gridWidth": 4,
     "gridHeight": 4,
     "playerStartPosition": {
@@ -260,5 +257,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Spreading",
+        "text_CN": "Watch out for Spreading Grass! It spreads when the timer hits zero!",
+        "text_EN": "Watch out for Spreading Grass! It spreads when the timer hits zero!"
+    }
 }

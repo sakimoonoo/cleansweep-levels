@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49790
-    },
     "gridWidth": 5,
     "gridHeight": 5,
     "playerStartPosition": {
@@ -335,5 +332,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Gopher",
+        "text_CN": "Gopher Holes are portals. Enter one, exit the other!",
+        "text_EN": "Gopher Holes are portals. Enter one, exit the other!"
+    }
 }

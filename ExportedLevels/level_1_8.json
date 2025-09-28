@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49736
-    },
     "gridWidth": 3,
     "gridHeight": 4,
     "playerStartPosition": {
@@ -110,5 +107,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Flag",
+        "text_CN": "New Objective: Capture the Flag! Mow all the grass (100% completion) and finish on the flag!",
+        "text_EN": "New Objective: Capture the Flag! Mow all the grass (100% completion) and finish on the flag!"
+    }
 }

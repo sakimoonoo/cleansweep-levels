@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 50056
-    },
     "gridWidth": 4,
     "gridHeight": 3,
     "playerStartPosition": {
@@ -200,5 +197,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Flowerbeds",
+        "text_CN": "Flowerbeds are obstacles. Plan a path around them!",
+        "text_EN": "Flowerbeds are obstacles. Plan a path around them!"
+    }
 }

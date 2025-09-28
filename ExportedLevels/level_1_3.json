@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49842
-    },
     "gridWidth": 2,
     "gridHeight": 3,
     "playerStartPosition": {
@@ -110,5 +107,11 @@
             },
             "spreadTimer": 0
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Saw",
+        "text_CN": "A tree blocks the path! Use the \"Saw\" to clear it!",
+        "text_EN": "A tree blocks the path! Use the \"Saw\" to clear it!"
+    }
 }

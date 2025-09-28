@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49774
-    },
     "gridWidth": 3,
     "gridHeight": 3,
     "playerStartPosition": {
@@ -80,5 +77,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Jump",
+        "text_CN": "Try the \"Jump\" when you're stuck",
+        "text_EN": "Try the \"Jump\" when you're stuck"
+    }
 }

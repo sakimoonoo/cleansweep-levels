@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 0
-    },
     "gridWidth": 2,
     "gridHeight": 3,
     "playerStartPosition": {
@@ -110,5 +107,11 @@
             },
             "spreadTimer": 0
         }
-    ]
+    ],
+    "hasTutorial": false,
+    "tutorialData": {
+        "tutorialId": "",
+        "text_CN": "",
+        "text_EN": ""
+    }
 }

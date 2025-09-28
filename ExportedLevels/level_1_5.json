@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49332
-    },
     "gridWidth": 3,
     "gridHeight": 3,
     "playerStartPosition": {
@@ -140,5 +137,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Drone",
+        "text_CN": "Some grass is out of reach, send in the \"Drone\"!",
+        "text_EN": "Some grass is out of reach, send in the \"Drone\"!"
+    }
 }

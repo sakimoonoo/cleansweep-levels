@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49714
-    },
     "gridWidth": 6,
     "gridHeight": 5,
     "playerStartPosition": {
@@ -365,5 +362,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Energy",
+        "text_CN": "Clear the Energy Grass to charge the battery, then tap the full battery for a powerful board-clearing move!",
+        "text_EN": "Clear the Energy Grass to charge the battery, then tap the full battery for a powerful board-clearing move!"
+    }
 }

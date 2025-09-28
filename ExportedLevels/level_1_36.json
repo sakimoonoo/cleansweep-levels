@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 0
-    },
     "gridWidth": 5,
     "gridHeight": 5,
     "playerStartPosition": {
@@ -13,7 +10,7 @@
         "x": 1,
         "y": 2
     },
-    "goldPerStar": 5,
+    "goldPerStar": 4,
     "starThresholds": [
         80.0,
         90.0,
@@ -395,5 +392,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": false,
+    "tutorialData": {
+        "tutorialId": "",
+        "text_CN": "",
+        "text_EN": ""
+    }
 }

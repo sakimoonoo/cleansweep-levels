@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49694
-    },
     "gridWidth": 2,
     "gridHeight": 2,
     "playerStartPosition": {
@@ -80,5 +77,11 @@
             },
             "spreadTimer": 0
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "FirstMove",
+        "text_CN": "Swipe to Move. Tidy up the lawn!",
+        "text_EN": "Swipe to Move. Tidy up the lawn!"
+    }
 }

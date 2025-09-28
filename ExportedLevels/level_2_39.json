@@ -1,7 +1,4 @@
 {
-    "tutorialData": {
-        "instanceID": 49786
-    },
     "gridWidth": 8,
     "gridHeight": 8,
     "playerStartPosition": {
@@ -980,5 +977,11 @@
             },
             "spreadTimer": 3
         }
-    ]
+    ],
+    "hasTutorial": true,
+    "tutorialData": {
+        "tutorialId": "Final",
+        "text_CN": "Congratulations! This is our last level available for now—new challenges are released every Wednesday, stay tuned!",
+        "text_EN": "Congratulations! This is our last level available for now—new challenges are released every Wednesday, stay tuned!"
+    }
 }
