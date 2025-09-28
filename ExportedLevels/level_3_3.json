@@ -543,10 +543,10 @@
             "spreadTimer": 3
         }
     ],
-    "hasTutorial": false,
+    "hasTutorial": true,
     "tutorialData": {
-        "tutorialId": "",
-        "text_CN": "",
-        "text_EN": ""
+        "tutorialId": "Final",
+        "text_CN": "Congratulations! This is our last level available for now—new challenges are released every Wednesday, stay tuned!",
+        "text_EN": "Congratulations! This is our last level available for now—new challenges are released every Wednesday, stay tuned!"
     }
 }
