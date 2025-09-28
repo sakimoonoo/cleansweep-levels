@@ -1,5 +1,5 @@
 {
-    "manifestVersion": 14,
+    "manifestVersion": 15,
     "levels": [
         {
             "chapterId": 1,
@@ -560,6 +560,34 @@
             "version": 10,
             "fileName": "level_2_39.json",
             "contentHash": "b117e9994a08973ca3fcf177f2643602"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 0,
+            "version": 1,
+            "fileName": "level_3_0.json",
+            "contentHash": "2776df63fa26cf5798ff98e87eb2cbc6"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 1,
+            "version": 1,
+            "fileName": "level_3_1.json",
+            "contentHash": "b56217b40f769464a3ee29c3903f5463"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 2,
+            "version": 1,
+            "fileName": "level_3_2.json",
+            "contentHash": "6998ab2715a557caf9d1f90f7b48820e"
+        },
+        {
+            "chapterId": 3,
+            "levelIndex": 3,
+            "version": 1,
+            "fileName": "level_3_3.json",
+            "contentHash": "03bea49b9a7a6bd32563b30f6527668e"
         }
     ]
 }
