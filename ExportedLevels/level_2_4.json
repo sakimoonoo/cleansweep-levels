@@ -3,7 +3,7 @@
     "gridHeight": 6,
     "playerStartPosition": {
         "x": 1,
-        "y": 2
+        "y": 1
     },
     "levelType": 0,
     "flagPosition": {
