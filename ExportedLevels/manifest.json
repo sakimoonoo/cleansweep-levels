@@ -1,5 +1,5 @@
 {
-    "manifestVersion": 6,
+    "manifestVersion": 7,
     "levels": [
         {
             "chapterId": 1,
@@ -655,51 +655,51 @@
         {
             "chapterId": 3,
             "levelIndex": 13,
-            "version": 2,
+            "version": 3,
             "fileName": "level_3_13.json",
-            "contentHash": "8b46d280ac45dc23e78fd1ecdfc8ad49"
+            "contentHash": "6d9febedd833853ce3f92a9dc8b71980"
         },
         {
             "chapterId": 3,
             "levelIndex": 14,
-            "version": 2,
+            "version": 3,
             "fileName": "level_3_14.json",
-            "contentHash": "6d9918355b0846cef0780db3af7fc39e"
+            "contentHash": "6af03c80e6b6ec1d0c5ef7b3318bfefe"
         },
         {
             "chapterId": 3,
             "levelIndex": 15,
-            "version": 1,
+            "version": 2,
             "fileName": "level_3_15.json",
-            "contentHash": "f70e1672f3ba23282db49aa8dbb4f015"
+            "contentHash": "1df598bd51772b69a37330fcd8c740df"
         },
         {
             "chapterId": 3,
             "levelIndex": 16,
-            "version": 1,
+            "version": 2,
             "fileName": "level_3_16.json",
-            "contentHash": "4af807badfc285ef01a07e28f762ab4e"
+            "contentHash": "32535c2feeafb21c0798c5a60630205d"
         },
         {
             "chapterId": 3,
             "levelIndex": 17,
-            "version": 1,
+            "version": 2,
             "fileName": "level_3_17.json",
-            "contentHash": "db7914e7aef72b929b9f185492f1dab3"
+            "contentHash": "a88cc997f3a783ae1112680055a96052"
         },
         {
             "chapterId": 3,
             "levelIndex": 18,
-            "version": 1,
+            "version": 2,
             "fileName": "level_3_18.json",
-            "contentHash": "adc3d768d6b586d2c21e50dca3e921d2"
+            "contentHash": "9ff3a6bacef33d59cbdb67101d8333c3"
         },
         {
             "chapterId": 3,
             "levelIndex": 19,
-            "version": 1,
+            "version": 2,
             "fileName": "level_3_19.json",
-            "contentHash": "2956b7ab33c0591bf26dce2052a44514"
+            "contentHash": "4d9bf99c44b9fb256e3ba8ad56db4dbb"
         }
     ]
 }

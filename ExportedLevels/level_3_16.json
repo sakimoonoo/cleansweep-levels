@@ -10,7 +10,7 @@
         "x": 0,
         "y": 0
     },
-    "goldPerStar": 5,
+    "goldPerStar": 4,
     "starThresholds": [
         80.0,
         90.0,
@@ -214,21 +214,6 @@
         },
         {
             "position": {
-                "x": 1,
-                "y": 2
-            },
-            "type": 0,
-            "grassLayers": 3,
-            "visualVariantIndex": 0,
-            "deadTreeStrength": 1,
-            "pairedHolePosition": {
-                "x": 0,
-                "y": 0
-            },
-            "spreadTimer": 3
-        },
-        {
-            "position": {
                 "x": 0,
                 "y": 4
             },
@@ -515,21 +500,6 @@
         {
             "position": {
                 "x": 5,
-                "y": 2
-            },
-            "type": 0,
-            "grassLayers": 2,
-            "visualVariantIndex": 0,
-            "deadTreeStrength": 1,
-            "pairedHolePosition": {
-                "x": 0,
-                "y": 0
-            },
-            "spreadTimer": 3
-        },
-        {
-            "position": {
-                "x": 5,
                 "y": 5
             },
             "type": 0,
@@ -638,6 +608,36 @@
                 "y": 5
             },
             "type": 4,
+            "grassLayers": 1,
+            "visualVariantIndex": 0,
+            "deadTreeStrength": 1,
+            "pairedHolePosition": {
+                "x": 0,
+                "y": 0
+            },
+            "spreadTimer": 3
+        },
+        {
+            "position": {
+                "x": 1,
+                "y": 2
+            },
+            "type": 0,
+            "grassLayers": 2,
+            "visualVariantIndex": 0,
+            "deadTreeStrength": 1,
+            "pairedHolePosition": {
+                "x": 0,
+                "y": 0
+            },
+            "spreadTimer": 3
+        },
+        {
+            "position": {
+                "x": 5,
+                "y": 2
+            },
+            "type": 0,
             "grassLayers": 1,
             "visualVariantIndex": 0,
             "deadTreeStrength": 1,
